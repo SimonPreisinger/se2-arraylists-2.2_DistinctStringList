@@ -74,10 +74,10 @@ public class DistinctStringListTest {
         ArrayList<String> want = new ArrayList<String>();
         // act
         sut.add("abra");
-        sut.add(0, "abra");
+        sut.add(sut.get(0));
         DistinctStringList have = sut;
         want.add("abra");
-        want.add(0, "abra");
+        want.add(want.get(0));
         // assert
         Assert.assertEquals(want, have);
     }
@@ -87,9 +87,11 @@ public class DistinctStringListTest {
         sut = new DistinctStringList();
         ArrayList<String> want = new ArrayList<String>();
         // act
-        sut.set(0,"abra");
+        sut.add("abra");
+        sut.set(0,"kadabra");
         DistinctStringList have = sut;
-        want.set(0, "abra");
+        want.add("abra");
+        want.set(0, "kadabra");
         // assert
         Assert.assertEquals(want, have);
     }
@@ -113,10 +115,12 @@ public class DistinctStringListTest {
         sut = new DistinctStringList();
         ArrayList<String> want = new ArrayList<String>();
         // act
-        sut.set(0,"abra");
+        sut.add("abra");
+        sut.set(0,"kadabra");
         sut.set(0,"abra");
         DistinctStringList have = sut;
-        want.set(0, "abra");
+        want.add("abra");
+        want.set(0, "kadabra");
         want.set(0, "abra");
         // assert
         Assert.assertEquals(want, have);
@@ -152,10 +156,12 @@ public class DistinctStringListTest {
         ArrayList<String> want = new ArrayList<String>();
         // act
         DistinctStringList newList = new DistinctStringList();
+        sut.add("yo");
         newList.add("abra");
         newList.add("kadabra");
         sut.addAll(newList);
         DistinctStringList have = sut;
+        want.add("yo");
         want.addAll(newList);
         // assert
         Assert.assertEquals(want, have);
@@ -166,15 +172,17 @@ public class DistinctStringListTest {
         sut = new DistinctStringList();
         ArrayList<String> want = new ArrayList<String>();
         // act
+        sut.add("abra");
+        sut.add("kadabra");
+        sut.add("hans");
         DistinctStringList newList = new DistinctStringList();
         newList.add("abra");
         newList.add("kadabra");
         sut.addAll(newList);
-        DistinctStringList containedList = sut;
-        sut.addAll(containedList);
         DistinctStringList have = sut;
-        want.addAll(newList);
-        want.addAll(containedList);
+        want.add("abra");
+        want.add("kadabra");
+        want.add("hans");
         // assert
         Assert.assertEquals(want, have);
     }

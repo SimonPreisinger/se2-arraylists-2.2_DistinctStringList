@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a61aa9c0-fe23-493d-83a1-5c91d5085d98" name="Default" comment="" />
+    <list default="true" id="a61aa9c0-fe23-493d-83a1-5c91d5085d98" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DistinctStringList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DistinctStringList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/DistinctStringListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/DistinctStringListTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,47 +21,26 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DistinctStringList.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DistinctStringList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DistinctStringList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+            <state relative-caret-position="379">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DistinctStringListTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DistinctStringListTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/DistinctStringListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2179">
-              <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+            <state relative-caret-position="236">
+              <caret line="180" column="15" selection-start-line="180" selection-start-column="15" selection-end-line="180" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#564#572#0" expanded="true" />
-                <element signature="e#1009#1017#0" expanded="true" />
-                <element signature="e#1421#1429#0" expanded="true" />
-                <element signature="e#1810#1818#0" expanded="true" />
-                <element signature="e#2211#2219#0" expanded="true" />
-                <element signature="e#2612#2620#0" expanded="true" />
-                <element signature="e#3010#3018#0" expanded="true" />
-                <element signature="e#3430#3438#0" expanded="true" />
-                <element signature="e#3872#3880#0" expanded="true" />
-                <element signature="e#4217#4225#0" expanded="true" />
-                <element signature="e#4663#4671#0" expanded="true" />
-                <element signature="e#5185#5193#0" expanded="true" />
-                <element signature="e#5767#5775#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,32 +87,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="se2-arraylists-2.2_DistinctStringList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="se2-arraylists-2.2_DistinctStringList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="se2-arraylists-2.2_DistinctStringList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="se2-arraylists-2.2_DistinctStringList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="se2-arraylists-2.2_DistinctStringList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="se2-arraylists-2.2_DistinctStringList" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -189,13 +147,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DistinctStringListTest.addAtContainedString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DistinctStringListTest.addAllContained" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="se2-arraylists-2.2_DistinctStringList" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DistinctStringListTest" />
-      <option name="METHOD_NAME" value="addAtContainedString" />
+      <option name="METHOD_NAME" value="addAllContained" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -206,13 +164,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DistinctStringListTest.addAtNewString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DistinctStringListTest.addAtContainedString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="se2-arraylists-2.2_DistinctStringList" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DistinctStringListTest" />
-      <option name="METHOD_NAME" value="addAtNewString" />
+      <option name="METHOD_NAME" value="addAtContainedString" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -298,15 +256,15 @@
     <list>
       <item itemvalue="JUnit.DistinctStringListTest.addDifferent" />
       <item itemvalue="JUnit.DistinctStringListTest.addEqualTwice" />
-      <item itemvalue="JUnit.DistinctStringListTest.addAtNewString" />
       <item itemvalue="JUnit.DistinctStringListTest.addAtContainedString" />
       <item itemvalue="JUnit.DistinctStringListTest" />
+      <item itemvalue="JUnit.DistinctStringListTest.addAllContained" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.DistinctStringListTest" />
+        <item itemvalue="JUnit.DistinctStringListTest.addAllContained" />
         <item itemvalue="JUnit.DistinctStringListTest.addAtContainedString" />
-        <item itemvalue="JUnit.DistinctStringListTest.addAtNewString" />
         <item itemvalue="JUnit.DistinctStringListTest.addEqualTwice" />
         <item itemvalue="JUnit.DistinctStringListTest.addDifferent" />
       </list>
@@ -322,73 +280,81 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525869395868</updated>
-      <workItem from="1525869397107" duration="1862000" />
+      <workItem from="1525869397107" duration="6679000" />
+      <workItem from="1525980092478" duration="90000" />
+      <workItem from="1526113781118" duration="2572000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DistinctStringListTest_addDifferent - 2018.05.09 at 14h 47m 57s.xml">
-      <configuration name="DistinctStringListTest.addDifferent" configurationId="JUnit" />
+    <history-entry file="DistinctStringListTest_addAllContained - 2018.05.12 at 10h 54m 24s.xml">
+      <configuration name="DistinctStringListTest.addAllContained" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DistinctStringListTest_addEqualTwice - 2018.05.09 at 14h 48m 33s.xml">
-      <configuration name="DistinctStringListTest.addEqualTwice" configurationId="JUnit" />
+    <history-entry file="DistinctStringListTest_addAllContained - 2018.05.12 at 10h 54m 52s.xml">
+      <configuration name="DistinctStringListTest.addAllContained" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DistinctStringListTest_addEqualTwice - 2018.05.09 at 14h 48m 52s.xml">
-      <configuration name="DistinctStringListTest.addEqualTwice" configurationId="JUnit" />
+    <history-entry file="DistinctStringListTest_addAllContained - 2018.05.12 at 10h 55m 47s.xml">
+      <configuration name="DistinctStringListTest.addAllContained" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DistinctStringListTest_addAtNewString - 2018.05.09 at 14h 50m 21s.xml">
-      <configuration name="DistinctStringListTest.addAtNewString" configurationId="JUnit" />
+    <history-entry file="DistinctStringListTest_addAllContained - 2018.05.12 at 10h 57m 20s.xml">
+      <configuration name="DistinctStringListTest.addAllContained" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DistinctStringListTest_addAtNewString - 2018.05.09 at 14h 50m 51s.xml">
-      <configuration name="DistinctStringListTest.addAtNewString" configurationId="JUnit" />
+    <history-entry file="DistinctStringListTest_addAllContained - 2018.05.12 at 10h 58m 22s.xml">
+      <configuration name="DistinctStringListTest.addAllContained" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DistinctStringListTest_addAtContainedString - 2018.05.09 at 14h 51m 34s.xml">
-      <configuration name="DistinctStringListTest.addAtContainedString" configurationId="JUnit" />
+    <history-entry file="DistinctStringListTest_addAllContained - 2018.05.12 at 11h 05m 39s.xml">
+      <configuration name="DistinctStringListTest.addAllContained" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DistinctStringListTest_addAtContainedString - 2018.05.09 at 14h 59m 57s.xml">
-      <configuration name="DistinctStringListTest.addAtContainedString" configurationId="JUnit" />
+    <history-entry file="DistinctStringListTest_addAllContained - 2018.05.12 at 11h 07m 09s.xml">
+      <configuration name="DistinctStringListTest.addAllContained" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DistinctStringListTest - 2018.05.09 at 15h 00m 09s.xml">
+    <history-entry file="DistinctStringListTest - 2018.05.12 at 11h 07m 20s.xml">
+      <configuration name="DistinctStringListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistinctStringListTest - 2018.05.12 at 11h 09m 07s.xml">
+      <configuration name="DistinctStringListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DistinctStringListTest - 2018.05.12 at 11h 09m 24s.xml">
       <configuration name="DistinctStringListTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1862000" />
+    <option name="totallyTimeSpent" value="9341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="992" y="24" width="928" height="1056" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32911393" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.4989224" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Learn" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978904" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,48 +371,158 @@
           <line>7</line>
           <properties />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/DistinctStringListTest.java</url>
+          <line>180</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/DistinctStringListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/DistinctStringList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2179">
-          <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        <state relative-caret-position="510">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#564#572#0" expanded="true" />
-            <element signature="e#1009#1017#0" expanded="true" />
-            <element signature="e#1421#1429#0" expanded="true" />
-            <element signature="e#1810#1818#0" expanded="true" />
-            <element signature="e#2211#2219#0" expanded="true" />
-            <element signature="e#2612#2620#0" expanded="true" />
-            <element signature="e#3010#3018#0" expanded="true" />
-            <element signature="e#3430#3438#0" expanded="true" />
-            <element signature="e#3872#3880#0" expanded="true" />
-            <element signature="e#4217#4225#0" expanded="true" />
-            <element signature="e#4663#4671#0" expanded="true" />
-            <element signature="e#5185#5193#0" expanded="true" />
-            <element signature="e#5767#5775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="270" column="19" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DistinctStringListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="164" column="23" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DistinctStringList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        <state relative-caret-position="525">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4050">
+          <caret line="270" column="19" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DistinctStringListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="164" column="23" selection-start-line="164" selection-start-column="23" selection-end-line="164" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="270" column="19" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/statements/ExpectException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/statements/FailOnTimeout.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#1926#1927#0" expanded="true" />
+            <element signature="e#1972#1973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DistinctStringList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DistinctStringListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="180" column="15" selection-start-line="180" selection-start-column="15" selection-end-line="180" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
